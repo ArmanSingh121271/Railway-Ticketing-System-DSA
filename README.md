@@ -26,4 +26,4 @@ options while admin has to login separately before having their own
 options. It works from the entering of user details, to payment, to 
 printing of tickets and other operations are available as well.
 
-For Further Details About the Project, Please Refer to the Project Report File Attached.
+
